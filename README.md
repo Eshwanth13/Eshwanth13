@@ -105,7 +105,7 @@ I regularly practice **Data Structures & Algorithms** and participate in competi
 ## 🤝 Connect With Me
 
 <p>
-<a href="https://linkedin.com/in/eshwanth-raj-nadam">
+<a href="https://www.linkedin.com/in/eshwanth-raj-nadam-545a04327/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://twitter.com/eshwanth33">
@@ -126,6 +126,3 @@ I'm always open to learning new technologies, collaborating on interesting proje
 
 ### ⭐ If you find my projects interesting, consider giving them a star!
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
