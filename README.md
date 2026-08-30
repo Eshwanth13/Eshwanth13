@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nadam Eshwanth Raj
 
-### Full-Stack Developer • Problem Solver • Tech Enthusiast
+### 🎓 CSE Student @ NIT Bhopal ’28 • Full-Stack Developer • Problem Solver • Tech Enthusiast
 
 I'm a passionate developer who enjoys building **scalable web applications**, solving challenging problems, and exploring new technologies.
 
