@@ -12,7 +12,7 @@ I love turning ideas into real-world products and continuously improving my skil
 
 🔭 Building **MANITPULSE** — an AI-driven university feedback platform designed to improve the student feedback experience.
 
-🌐 **Portfolio:** [View My Portfolio](https://portfolio-eshwanth-rajs-projects.vercel.app/)
+🌐 **Portfolio:** [View My Portfolio](https://eshwanth-portfolio.vercel.app/)
 
 💡 Currently focused on **full-stack development, backend engineering, real-time systems, AI integration, and system design**.
 
